@@ -1,4 +1,4 @@
-# havenn
+# Haven
 
 ```
 git clone https://github.com/jlwaugh/havenn haven-frontend
